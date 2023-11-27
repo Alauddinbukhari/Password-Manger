@@ -42,9 +42,13 @@ This is a simple password manager application built using Tkinter in Python. It 
 ```bash
 git clone https://github.com/your-username/password-manager.git
 cd password-manager
-
+```
 2. Run the application.
 
 ```bash
 python password_manager.py
-
+```
+## File Structure
+- password_manager.py: The main Python script containing the password manager application.
+- logo.png: Logo image used in the GUI.
+- Data.json: JSON file to store saved password data.
